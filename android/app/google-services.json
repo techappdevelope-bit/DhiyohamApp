@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109394091211",
+    "project_id": "dhiyoham-kids",
+    "storage_bucket": "dhiyoham-kids.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109394091211:android:f422509f60bfcc5ed08f4e",
+        "android_client_info": {
+          "package_name": "com.dhiyohamkids.kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5nTx3sMKZObyq0u60_IkcDe7Fau1tYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "KidsChore",
+  "displayName": "KidsChore",
+  "extra": {
+    "eas": {
+      "projectId": "468c1c21-9b32-45fa-8eb6-4dd7c43f2665"
+    }
+  }
+}
